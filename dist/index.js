@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.helloWorld = function () {
-    return 'Howdy!';
+    return 'Hello World!';
 };
 //# sourceMappingURL=index.js.map
