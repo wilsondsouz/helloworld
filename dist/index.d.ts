@@ -1,1 +1,1 @@
-export declare const helloWorld: () => string;
+export declare const helloWorld: (req: any, res: any) => void;
